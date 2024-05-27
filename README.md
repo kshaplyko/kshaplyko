@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**kshaplyko/kshaplyko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Проекты
 
 | Название | Задача | Библиотеки |
