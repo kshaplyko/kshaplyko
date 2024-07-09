@@ -4,7 +4,7 @@
 Моё [резюме](https://istria.hh.ru/resume/7aa71024ff08440c890039ed1f567155397174) на hh.
 
 # Сертификаты
-[Яндекс Практикум "Специалист по Data Science"][[Переподготовка ЯП Data Science.pdf]]
+[Яндекс Практикум "Специалист по Data Science"](https://github.com/kshaplyko/kshaplyko/blob/main/Переподготовка%20ЯП%20Data%20Science.pdf)
 
 # Проекты
 
